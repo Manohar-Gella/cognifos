@@ -5,7 +5,7 @@ const ChatWindow = () => {
     <div className="flex flex-col justify-between h-full p-4">
       {/* Centered content */}
       <div className="flex flex-col items-center justify-center text-center flex-grow">
-        <p className="text-gray-400 text-xl mb-4">Message Not Diamond...</p>
+        <p className="text-gray-400 text-xl mb-4">Message Cognifos.</p>
         <button className="bg-gray-500 text-white p-2 rounded">Surprise me</button>
       </div>
 
